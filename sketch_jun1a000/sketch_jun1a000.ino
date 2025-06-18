@@ -7,7 +7,7 @@
 #include <time.h>        // لـ localtime و strftime لإنشاء Timestamp بتنسيق ISO 8601
 #include <NTPClient.h>   // للحصول على الوقت الدقيق من NTP Server
 #include <WiFiUdp.h>     // لـ NTPClient
-
+//sfsf
 // مكتبات Micro SD Card
 #include <SPI.h> // مكتبة SPI للتواصل مع SD Card
 #include <SD.h>  // مكتبة SD Card
